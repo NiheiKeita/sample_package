@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "NiheiKeita:registry": "https://npm.pkg.github.com"
   }
 }
