@@ -1,6 +1,6 @@
 {
-  "name": "keita_max_sample_package_1",
-  "version": "1.0.1",
+  "name": "keita_max_sample_package",
+  "version": "1.0.",
   "description": "",
   "main": "index.js",
   "scripts": {
