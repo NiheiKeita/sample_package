@@ -1,5 +1,5 @@
 {
-  "name": "sample_package",
+  "name": "keita_max_sample_package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@NiheiKeita:registry": "https://npm.pkg.github.com"
+    "@keita_max:registry": "https://npm.pkg.github.com"
   }
 }
