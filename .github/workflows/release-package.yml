@@ -21,9 +21,6 @@ jobs:
       - name: npm install
         run: npm install
 
-      - name: build
-        run: npm build
-
       - name: publish
         run: npm publish
         env:
